@@ -1,0 +1,24 @@
+Info: Processing symbol 'D1:LED_THT:LED_D5.0mm_Horizontal_O3.81mm_Z3.0mm'.
+Info: Processing symbol 'D2:LED_THT:LED_D5.0mm_Horizontal_O3.81mm_Z3.0mm'.
+Info: Processing symbol 'D3:LED_SMD:LED_1206_3216Metric'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal'.
+Info: Processing symbol 'R1:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Processing symbol 'R2:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Processing symbol 'R3:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Processing symbol 'RV1:Potentiometer_THT:Potentiometer_Bourns_3266Y_Vertical'.
+Info: Processing symbol 'U1:Package_DIP:DIP-8_W7.62mm_SMDSocket_SmallPads'.
+Info: Total warnings: 0, errors: 0.
+Add D1 (footprint 'LED_THT:LED_D5.0mm_Horizontal_O3.81mm_Z3.0mm').
+Add D2 (footprint 'LED_THT:LED_D5.0mm_Horizontal_O3.81mm_Z3.0mm').
+Add D3 (footprint 'LED_SMD:LED_1206_3216Metric').
+Add J1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal').
+Add R1 (footprint 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Add R2 (footprint 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Add R3 (footprint 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Add RV1 (footprint 'Potentiometer_THT:Potentiometer_Bourns_3266Y_Vertical').
+Add U1 (footprint 'Package_DIP:DIP-8_W7.62mm_SMDSocket_SmallPads').
+
+
+
+
+Info: Total warnings: 0, errors: 0.
