@@ -28,9 +28,9 @@ component placement and final design.
 
 <h2>📷 Project Images</h2>
 <p>
-<img src="https://github.com/utkarsh-kumar4/IR-Sensor-Module-in-KiCad/blob/main/Schematic.png" alt="Schematic" width="500"><br>
-<img src="https://github.com/utkarsh-kumar4/IR-Sensor-Module-in-KiCad/blob/main/PCB%20Layout.png" alt="PCB Layout" width="500"><br>
-<img src="https://github.com/utkarsh-kumar4/IR-Sensor-Module-in-KiCad/blob/main/PCB%203D%20View.png" alt="3D PCB" width="500">
+<img src="https://github.com/utkarsh-kumar4/IR-Sensor-Module-in-KiCad/blob/main/Schematic.png" alt="Schematic"><br>
+<img src="https://github.com/utkarsh-kumar4/IR-Sensor-Module-in-KiCad/blob/main/PCB%20Layout.png" alt="PCB Layout"><br>
+<img src="https://github.com/utkarsh-kumar4/IR-Sensor-Module-in-KiCad/blob/main/PCB%203D%20View.png" alt="3D PCB">
 </p>
 
 ## Author 👤
