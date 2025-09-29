@@ -32,7 +32,7 @@ component placement and final design.
 <h3>🔹 PCB Layout</h3>
 <p><img src="https://github.com/utkarsh-kumar4/IR-Sensor-Module-in-KiCad/blob/main/PCB%20Layout.png" alt="PCB Layout"></p>
 <h3>🔹 3D Board View</h3>
-<p><img src="https://github.com/utkarsh-kumar4/IR-Sensor-Module-in-KiCad/blob/main/PCB%203D%20View.png" alt="3D PCB"></p>
+<p><img src="https://github.com/utkarsh-kumar4/IR-Sensor-Module-in-KiCad/blob/main/3D%20Board%20View.png" alt="3D PCB"></p>
 
 ## Author 👤
 [Utkarsh Kumar](https://github.com/utkarsh-kumar4) 👨🏻‍💻🎓
